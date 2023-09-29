@@ -1,0 +1,2 @@
+# DistributedLogQuerier
+Distributed Log Querier
