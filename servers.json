@@ -1,0 +1,28 @@
+{
+  "server_list": [
+    {
+      "id" : "01",
+      "hostname" : "compute",
+      "logfile" : "machine01.i.log",
+      "ip" : "192.168.10.20"
+    },
+    {
+      "id" : "02",
+      "hostname" : "compute02",
+      "logfile" : "machine02.i.log",
+      "ip" : "192.168.10.30"
+    },
+    {
+      "id" : "03",
+      "hostname" : "compute03",
+      "logfile" : "machine03.i.log",
+      "ip" : "192.168.10.40"
+    },
+    {
+      "id" : "04",
+      "hostname" : "compute04",
+      "logfile" : "machine04.i.log",
+      "ip" : "192.168.10.50"
+    }
+  ]
+}
