@@ -29,4 +29,4 @@ go test -v client_test.go
 
 ## Result
 ![result1.png](https://cdn.ipfsscan.io/ipfs/QmeMx26j5nSqrzqYfcZeLWuorUzg34hzaNV2XxPaHGGZSD?filename=image.png)
-![result2.png](https://cdn.ipfsscan.io/ipfs/QmX8TSsf83v5WvFAgNpUifyztkHKDrM6V7PhdXjq8AFeoT?filename=Results.png)
+![result2.png](https://cdn.ipfsscan.io/ipfs/QmcyyWHCg9M3smr3bSvCs5fFq96GdwUy48imwSqXevyHfD?filename=Results2.png)
